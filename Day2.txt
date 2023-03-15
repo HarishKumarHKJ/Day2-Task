@@ -1,0 +1,13 @@
+Day2 Task
+
+write a blog on the difference between document and window object
+
+Ans:
+  The Document Object Represents The Whole HTML Document As a Tree Of Objects.
+  Window Object Representing The Window Or Tab Or An iframe Sometimes.
+  The Document Object Is Loaded Inside The Window.
+  Window Object Is The Very First Object That Is Loaded In The Browser.
+  All The Tags, Elements With Attributes In HTML Are Part Of The Document Object.
+  Global Objects, Functions And Variables Of JavaScript Are Part Of The Window Object.
+  The Document Object Is Part Of BOM (Browser Object Model) And DOM (Document Object Model).
+  The Window Is Part Of BOM (Browser Object Model) Not DOM (Document Object Model).
